@@ -35,7 +35,7 @@ void Principal::paintEvent(QPaintEvent *event)
 }
 
 //todas estas condiciones empleadas sirven para elegir cuando el usuario escoja las cuatro
-//opciones que en este caso son; estilo libre, lineas, rectangulos y por ultimos los ciruclos
+//opciones que en este caso son; estilo libre, lineas, rectangulos y por ultimos los ciruclos..
 
 void Principal::mousePressEvent(QMouseEvent *event)
 {
