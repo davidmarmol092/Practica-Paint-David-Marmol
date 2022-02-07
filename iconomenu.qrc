@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Recursos/cancelar.png</file>
+        <file>Recursos/circulo.png</file>
+        <file>Recursos/espesor.png</file>
+        <file>Recursos/lapices-de-colores.png</file>
+        <file>Recursos/linea.png</file>
+        <file>Recursos/rectangulo.png</file>
+        <file>Recursos/estilo-de-pelo.png</file>
+        <file>Recursos/art-and-design.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Recursos/estilo-de-pelo.png</file>
+        <file>principal_el.qm</file>
+        <file>principal_ru.qm</file>
+    </qresource>
+</RCC>
