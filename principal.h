@@ -31,6 +31,7 @@ class Principal : public QMainWindow
 public:
     Principal(QWidget *parent = nullptr);
     ~Principal();
+    //eventos para que se ejecute el mouse
 protected:
     void paintEvent(QPaintEvent *event) override;
     void mousePressEvent(QMouseEvent *event) override;
